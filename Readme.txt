@@ -1,0 +1,1 @@
+Tài liệu này được viết ra để ghi lại những chiêm nghiệm của bản thân khi giao dịch trong thị trường đầy biến động và phức tạp này
