@@ -1,0 +1,1 @@
+Mỗi một cặp giao dịch sẽ chạy theo một cách khác nhau nên ta sẽ xây dựng những chiến lược khác nhau
