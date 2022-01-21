@@ -1,0 +1,7 @@
+Phân tích nhiều thế thôi chứ vào lệnh vãn cháy đều
+Quan trọng là phải kiên nhẫn chờ đợi, xây dựng kế hoạch vào lệnh và khi giá đạt đúng kế hoạch đó thì mới vào lệnh
+Đừng vào lệnh bừa bãi, thà vào một lệnh tốt còn hơn nhiều lệnh ngu
+
+Hãy coi việc vào lệnh như một hàm if else trong lập trình ý
+khi thỏa mãn điều kiện thì tiến hành vào lệnh
+còn không thì đứng ngoài quan sát
